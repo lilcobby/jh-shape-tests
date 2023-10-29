@@ -1,0 +1,19 @@
+{
+  "name": "jh-shape-tests",
+  "version": "1.0.0",
+  "description": "creates an svg file that displays a logo which displays: shape with text and color",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.3"
+  }
+}
