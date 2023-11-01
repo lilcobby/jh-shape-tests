@@ -1,6 +1,1 @@
-<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-
-        <circle cx="150" cy="120" r="75" fill="red" />
-
-      <text x="150" y="130" font-size="50" text-anchor="middle" fill="green">abc</text>
-      </svg>
+<svg version="1.1" width="300" height="200" style= "background-color: grey" xmlns="http://www.w3.org/2000/svg"><circle cx="150" cy="120" r="75" fill="black" /><text x="150" y="130" font-size="50" text-anchor="middle" fill="pink">aaa</text></svg>
