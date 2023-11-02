@@ -29,6 +29,8 @@ open the index.js file in a terminal, run node index, follow the prompts. Once t
 ## Contributions
 
 w3schools, me.
+tutoring session to help with validation conditionals.
+line 11-14 index.js
 
 ## Tests
 
