@@ -33,7 +33,11 @@ w3schools, me.
 ## Tests
 
 open shape.test.js in the terminal and run "npm run test"
+test checks if correct object is created from the prompts.
 
 ## Questions
 
 https://github.com/lilcobby
+
+video of functionality
+[vid](/assets/shape.svg.create.gif.gif)
